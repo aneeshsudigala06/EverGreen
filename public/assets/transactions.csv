@@ -1,0 +1,139 @@
+id,merchant,amount,date,category,type,recommendation
+1000,Grocery Co,45.20,2022-01-05,Groceries,sustainable,Shop local and buy seasonal produce
+1001,Fuel Station,62.10,2022-01-12,Transport,unsustainable,Consider carpooling or public transit
+1002,Coffee House,4.75,2022-01-20,Food & Drink,neutral,Bring a reusable cup
+1003,Grocery Co,38.00,2022-02-03,Groceries,sustainable,Choose bulk items to reduce packaging
+1004,Fuel Station,58.50,2022-02-14,Transport,unsustainable,Combine errands to reduce trips
+1005,Coffee House,5.00,2022-02-22,Food & Drink,neutral,Use a reusable cup
+1006,Grocery Co,52.10,2022-03-06,Groceries,sustainable,Buy local to reduce transport emissions
+1007,QuickFuel,70.00,2022-03-18,Transport,unsustainable,Check tire pressure to save fuel
+1008,Bakery,8.25,2022-03-25,Food & Drink,neutral,Bring reusable bag
+1009,Grocery Co,47.30,2022-04-02,Groceries,sustainable,Choose organic produce when possible
+1010,Fuel Station,60.00,2022-04-12,Transport,unsustainable,Use public transit when available
+1011,Coffee House,4.50,2022-04-20,Food & Drink,neutral,Refill your reusable cup
+1012,Grocery Co,49.99,2022-05-05,Groceries,sustainable,Support farmers' markets
+1013,Shell Gas,65.40,2022-05-15,Transport,unsustainable,Consider hybrid or EV for future vehicle purchases
+1014,Cafe Corner,6.10,2022-05-23,Food & Drink,neutral,Bring a reusable cup
+1015,Grocery Co,44.20,2022-06-04,Groceries,sustainable,Buy seasonal produce
+1016,Fuel Station,59.90,2022-06-14,Transport,unsustainable,Try biking for short trips
+1017,Tea Spot,3.95,2022-06-21,Food & Drink,neutral,Bring a travel mug
+1018,Grocery Co,50.00,2022-07-02,Groceries,sustainable,Buy in bulk to reduce packaging
+1019,QuickFuel,72.00,2022-07-16,Transport,unsustainable,Look into fuel-efficient routes
+1020,Ice Cream Shop,7.50,2022-07-24,Food & Drink,neutral,Use reusable containers
+1021,Grocery Co,46.75,2022-08-03,Groceries,sustainable,Choose local suppliers
+1022,Fuel Station,61.20,2022-08-12,Transport,unsustainable,Combine errands into one trip
+1023,Coffee House,4.65,2022-08-27,Food & Drink,neutral,Bring reusable cup
+1024,Grocery Co,43.90,2022-09-04,Groceries,sustainable,Shop at farmer's markets
+1025,Petrol One,68.80,2022-09-11,Transport,unsustainable,Consider public transit
+1026,Donuts,5.50,2022-09-20,Food & Drink,neutral,Bring your own bag
+1027,Grocery Co,55.20,2022-10-03,Groceries,sustainable,Support local farms
+1028,Fuel Station,75.00,2022-10-15,Transport,unsustainable,Plan trips to be efficient
+1029,Coffee House,4.80,2022-10-22,Food & Drink,neutral,Use reusable cup
+1030,Grocery Co,48.30,2022-11-05,Groceries,sustainable,Buy seasonal fruits
+1031,QuickFuel,63.10,2022-11-14,Transport,unsustainable,Try an EV car-share
+1032,Bistro Cafe,6.50,2022-11-24,Food & Drink,neutral,Bring reusable cup
+1033,Grocery Co,51.00,2022-12-02,Groceries,sustainable,Choose low-impact brands
+1034,Shell Gas,80.00,2022-12-18,Transport,unsustainable,Consider rail travel for long trips
+1035,Coffee House,5.25,2022-12-23,Food & Drink,neutral,Bring a reusable cup
+1036,Grocery Co,44.00,2023-01-06,Groceries,sustainable,Grow herbs at home
+1037,Fuel Station,66.00,2023-01-15,Transport,unsustainable,Bike when possible
+1038,Cafe Corner,5.50,2023-01-26,Food & Drink,neutral,Use reusable cup
+1039,Grocery Co,47.00,2023-02-04,Groceries,sustainable,Buy seasonal produce
+1040,Petrol One,69.20,2023-02-12,Transport,unsustainable,Plan efficient routes
+1041,Tea Spot,4.10,2023-02-21,Food & Drink,neutral,Bring reusable mug
+1042,Grocery Co,49.50,2023-03-03,Groceries,sustainable,Support local producers
+1043,Fuel Station,62.50,2023-03-16,Transport,unsustainable,Check public transit options
+1044,Bakery,8.00,2023-03-25,Food & Drink,neutral,Bring reusable bag
+1045,Grocery Co,53.20,2023-04-05,Groceries,sustainable,Buy bulk items
+1046,QuickFuel,71.00,2023-04-18,Transport,unsustainable,Consider carpooling
+1047,Coffee House,4.25,2023-04-27,Food & Drink,neutral,Use reusable cup
+1048,Grocery Co,45.80,2023-05-02,Groceries,sustainable,Choose local produce
+1049,Shell Gas,67.50,2023-05-13,Transport,unsustainable,Use public transit
+1050,Cafe Corner,6.00,2023-05-21,Food & Drink,neutral,Bring reusable cup
+1051,Grocery Co,52.00,2023-06-04,Groceries,sustainable,Support farmers markets
+1052,Fuel Station,60.40,2023-06-14,Transport,unsustainable,Try biking for short journeys
+1053,Tea Spot,3.90,2023-06-23,Food & Drink,neutral,Use a travel mug
+1054,Grocery Co,46.60,2023-07-03,Groceries,sustainable,Buy seasonal items
+1055,QuickFuel,74.20,2023-07-17,Transport,unsustainable,Optimize trip planning
+1056,Ice Cream Shop,7.20,2023-07-25,Food & Drink,neutral,Use reusable container
+1057,Grocery Co,48.90,2023-08-01,Groceries,sustainable,Choose local brands
+1058,Petrol One,63.80,2023-08-12,Transport,unsustainable,Combine errands
+1059,Coffee House,4.95,2023-08-22,Food & Drink,neutral,Bring reusable cup
+1060,Grocery Co,54.10,2023-09-04,Groceries,sustainable,Buy in bulk
+1061,Fuel Station,70.00,2023-09-15,Transport,unsustainable,Consider train for longer trips
+1062,Bakery,5.75,2023-09-26,Food & Drink,neutral,Bring reusable bag
+1063,Grocery Co,47.30,2023-10-03,Groceries,sustainable,Support local farms
+1064,Shell Gas,68.90,2023-10-14,Transport,unsustainable,Look for EV charging options
+1065,Coffee House,5.10,2023-10-24,Food & Drink,neutral,Bring reusable cup
+1066,Grocery Co,50.00,2023-11-06,Groceries,sustainable,Choose low-impact brands
+1067,QuickFuel,66.75,2023-11-16,Transport,unsustainable,Carpool when possible
+1068,Bistro Cafe,6.90,2023-11-27,Food & Drink,neutral,Bring reusable cup
+1069,Grocery Co,55.60,2023-12-05,Groceries,sustainable,Buy local foods
+1070,Shell Gas,78.00,2023-12-20,Transport,unsustainable,Choose rail for holidays
+1071,Coffee House,5.40,2023-12-22,Food & Drink,neutral,Use reusable cup
+1072,Grocery Co,46.20,2024-01-07,Groceries,sustainable,Grow small garden
+1073,Fuel Station,65.00,2024-01-18,Transport,unsustainable,Bundle trips to reduce miles
+1074,Cafe Corner,5.25,2024-01-29,Food & Drink,neutral,Bring reusable cup
+1075,Grocery Co,48.40,2024-02-04,Groceries,sustainable,Choose seasonal produce
+1076,Petrol One,69.50,2024-02-15,Transport,unsustainable,Try bike for short rides
+1077,Tea Spot,4.35,2024-02-24,Food & Drink,neutral,Use a travel mug
+1078,Grocery Co,51.10,2024-03-03,Groceries,sustainable,Support local farms
+1079,QuickFuel,63.00,2024-03-17,Transport,unsustainable,Use public transit when possible
+1080,Bakery,7.90,2024-03-26,Food & Drink,neutral,Bring reusable bag
+1081,Grocery Co,53.80,2024-04-02,Groceries,sustainable,Buy in bulk
+1082,Fuel Station,72.10,2024-04-15,Transport,unsustainable,Consider EV options
+1083,Coffee House,4.60,2024-04-27,Food & Drink,neutral,Bring reusable cup
+1084,Grocery Co,49.40,2024-05-05,Groceries,sustainable,Choose local produce
+1085,Shell Gas,67.90,2024-05-13,Transport,unsustainable,Plan efficient routes
+1086,Cafe Corner,6.15,2024-05-24,Food & Drink,neutral,Bring reusable cup
+1087,Grocery Co,45.70,2024-06-03,Groceries,sustainable,Buy seasonal items
+1088,QuickFuel,61.50,2024-06-18,Transport,unsustainable,Try bike commuting
+1089,Tea Spot,3.85,2024-06-26,Food & Drink,neutral,Use travel mug
+1090,Grocery Co,52.20,2024-07-03,Groceries,sustainable,Support farmers markets
+1091,Petrol One,75.00,2024-07-16,Transport,unsustainable,Plan longer trips by rail
+1092,Ice Cream Shop,7.00,2024-07-23,Food & Drink,neutral,Use reusable container
+1093,Grocery Co,47.60,2024-08-04,Groceries,sustainable,Buy in bulk
+1094,Fuel Station,64.20,2024-08-14,Transport,unsustainable,Combine errands
+1095,Coffee House,4.45,2024-08-25,Food & Drink,neutral,Bring reusable cup
+1096,Grocery Co,50.30,2024-09-02,Groceries,sustainable,Choose local brands
+1097,QuickFuel,69.00,2024-09-12,Transport,unsustainable,Consider public transit
+1098,Bakery,6.25,2024-09-22,Food & Drink,neutral,Bring reusable bag
+1099,Grocery Co,54.90,2024-10-03,Groceries,sustainable,Support local producers
+1100,Shell Gas,70.80,2024-10-14,Transport,unsustainable,Look for EV charging
+1101,Coffee House,5.15,2024-10-24,Food & Drink,neutral,Bring reusable cup
+1102,Grocery Co,46.80,2024-11-06,Groceries,sustainable,Choose low-impact brands
+1103,Petrol One,67.30,2024-11-17,Transport,unsustainable,Carpool when possible
+1104,Bistro Cafe,6.75,2024-11-26,Food & Drink,neutral,Bring reusable cup
+1105,Grocery Co,56.20,2024-12-04,Groceries,sustainable,Buy local foods
+1106,Fuel Station,79.50,2024-12-19,Transport,unsustainable,Use train for holiday travel
+1107,Coffee House,5.60,2024-12-23,Food & Drink,neutral,Use reusable cup
+1108,Grocery Co,47.90,2025-01-05,Groceries,sustainable,Buy seasonal produce
+1109,QuickFuel,66.10,2025-01-16,Transport,unsustainable,Combine errands efficiently
+1110,Cafe Corner,5.55,2025-01-28,Food & Drink,neutral,Bring reusable cup
+1111,Grocery Co,49.20,2025-02-04,Groceries,sustainable,Support local growers
+1112,Shell Gas,68.00,2025-02-14,Transport,unsustainable,Try public transit
+1113,Tea Spot,4.05,2025-02-26,Food & Drink,neutral,Use travel mug
+1114,Grocery Co,51.70,2025-03-03,Groceries,sustainable,Buy in bulk
+1115,Fuel Station,64.80,2025-03-18,Transport,unsustainable,Check EV sharing options
+1116,Bakery,8.10,2025-03-25,Food & Drink,neutral,Bring reusable bag
+1117,Grocery Co,48.50,2025-04-02,Groceries,sustainable,Choose local produce
+1118,QuickFuel,62.00,2025-04-14,Transport,unsustainable,Plan efficient routes
+1119,Coffee House,4.95,2025-04-23,Food & Drink,neutral,Bring reusable cup
+1120,Grocery Co,46.00,2025-05-04,Groceries,sustainable,Support farmers' markets
+1121,Petrol One,65.90,2025-05-15,Transport,unsustainable,Try biking for short trips
+1122,Cafe Corner,6.05,2025-05-25,Food & Drink,neutral,Bring reusable cup
+1123,Grocery Co,53.30,2025-06-03,Groceries,sustainable,Buy seasonal items
+1124,Fuel Station,70.50,2025-06-18,Transport,unsustainable,Consider carpooling
+1125,Tea Spot,3.95,2025-06-26,Food & Drink,neutral,Use travel mug
+1126,Grocery Co,50.40,2025-07-02,Groceries,sustainable,Choose local suppliers
+1127,QuickFuel,73.20,2025-07-16,Transport,unsustainable,Look into fuel efficient driving
+1128,Ice Cream Shop,7.30,2025-07-24,Food & Drink,neutral,Use reusable container
+1129,Grocery Co,45.60,2025-08-04,Groceries,sustainable,Buy in bulk
+1130,Fuel Station,61.80,2025-08-13,Transport,unsustainable,Combine errands
+1131,Coffee House,4.70,2025-08-22,Food & Drink,neutral,Bring reusable cup
+1132,Grocery Co,51.00,2025-09-03,Groceries,sustainable,Support local farms
+1133,Shell Gas,69.40,2025-09-14,Transport,unsustainable,Consider public transit
+1134,Bakery,6.00,2025-09-21,Food & Drink,neutral,Bring reusable bag
+1135,Local Farmers' Market,42.50,2025-10-05,Groceries,sustainable,Buying local reduces carbon emissions from transport!
+1136,Shell Gas Station,55.12,2025-10-15,Transport,unsustainable,For short trips, consider biking or walking. For longer ones, public transit is a great alternative.
+1137,Starbucks,5.75,2025-10-20,Food & Drink,neutral,Bringing your own reusable cup can earn you a discount and reduce waste!
