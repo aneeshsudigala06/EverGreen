@@ -4,7 +4,7 @@
 
 ## Description
 
-A Sustainable Finance Tracker for Capital One
+A Sustainable Finance Tracker for Capital One.
 
 ## Features
 
